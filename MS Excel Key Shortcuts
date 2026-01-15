@@ -1,0 +1,56 @@
+MS Excel Key Shortcuts (Important for Interviews)
+🔹 General Shortcuts
+
+Ctrl + N → New workbook
+
+Ctrl + O → Open workbook
+
+Ctrl + S → Save
+
+Ctrl + P → Print
+
+🔹 Navigation
+
+Ctrl + Arrow Key → Jump to last filled cell
+
+Ctrl + Home → Go to A1
+
+Ctrl + End → Go to last used cell
+
+🔹 Selection
+
+Ctrl + Shift + Arrow Key → Select data range
+
+Ctrl + A → Select entire sheet
+
+🔹 Editing
+
+F2 → Edit active cell
+
+Ctrl + X / C / V → Cut / Copy / Paste
+
+Ctrl + Z / Y → Undo / Redo
+
+🔹 Formatting
+
+Ctrl + B / I / U → Bold / Italic / Underline
+
+Ctrl + 1 → Format Cells dialog box
+
+Alt + H + O + I → AutoFit column width
+
+🔹 Data Analysis
+
+Alt + A + T → Create Pivot Table
+
+Alt + D + F + F → Apply Filter
+
+Ctrl + Shift + L → Toggle filters
+
+Alt + = → AutoSum
+
+🔹 Date & Time
+
+Ctrl + ; → Insert current date
+
+Ctrl + Shift + ; → Insert current time 
